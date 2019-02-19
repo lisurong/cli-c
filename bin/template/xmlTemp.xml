@@ -1,0 +1,10 @@
+﻿<component-params>
+	<param>
+		<name>cache.open</name>
+		<defaultValue>false</defaultValue>
+	</param>
+	<param>
+		<name>cacheParams</name>
+		<defaultValue></defaultValue>
+	</param>
+</component-params>

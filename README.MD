@@ -1,7 +1,9 @@
 #业务模块模板生成工具
 ## 使用方式
 1. 安装方式（https://github.com/lisurong/cli-c.git为github项目路径）
+
 cnpm install -g https://github.com/lisurong/cli-c.git
+
 
 2. 使用方式
 在命令行下执行 app-cli 根据提示输入需要创建的模块名称，支持多级目录
